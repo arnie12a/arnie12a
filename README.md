@@ -23,7 +23,7 @@ I enjoy solving real-world problems with **data science, software engineering, a
 ---
 
 ## 📌 Featured Projects  
-🔹 🏀 **[FT% Tracker](https://github.com/arnie12a/Free-Throw-Tracker-App)** – NBA free throw tracking app using React & Firebase  
+🔹 🏀 **[Free Throw Percentage Tracker](https://github.com/arnie12a/Free-Throw-Tracker-App)** – NBA free throw tracking app using React & Firebase  
 🔹 📸 **[Photography Portfolio](https://github.com/arnie12a/photography-portfolio)** – Next.js-based photo showcase  
 
 🔗 **Explore more projects on my [GitHub Repositories](https://github.com/arnie12a?tab=repositories)!**  
