@@ -6,8 +6,6 @@
 💼 **Data Science Analyst @ Discover Financial Services**  
 💻 **Passionate about coding, building web apps, and analyzing data**  
 
-I enjoy solving real-world problems with **data science, software engineering, and automation**. I'm always looking for exciting projects to build and new technologies to learn!  
-
 ---
 
 ## 🛠 Tech Stack  
