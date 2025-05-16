@@ -1,47 +1,36 @@
-# Hi, I'm Arnav Karnik 👋  
+## 👋 Hi there! I'm Arnav Karnik
 
-
-## 🚀 About Me  
-🎓 **University of Wisconsin-Madison ('23)**  
-💼 **Data Science Analyst @ Discover Financial Services**  
-💻 **Passionate about coding, building web apps, and analyzing data**  
+I'm a **Computer Science and Data Science graduate** from the **University of Wisconsin–Madison** (December 2023). 
 
 ---
 
-## 🛠 Tech Stack  
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-
-</div>
+### 🧰 Tech Stack & Tools
+- **Languages:** JavaScript | Python | 
+- **Frameworks:** React | Next.js | 
+- **Tools:** Git | Firebase | VS Code | Figma
 
 ---
 
-## 📌 Featured Projects  
-🔹 🏀 **[Free Throw Percentage Tracker](https://github.com/arnie12a/Free-Throw-Tracker-App)** – NBA free throw tracking app using React & Firebase  
-🔹 📸 **[Photography Portfolio](https://github.com/arnie12a/photography-portfolio)** – Next.js-based photo showcase  
-
-🔗 **Explore more projects on my [GitHub Repositories](https://github.com/arnie12a?tab=repositories)!**  
-
+### 🚀 Projects I'm Working On
+- 🔭 **[Free Throw Percentage Tracker](https://freethrowtrackerapp.web.app)** – A React.js + Firebase app that tracks an individual's free throw percentage over time.
+- 📊 **[Photography Portfolio](arnavkarnikphotos.com)** – A Next.js app that showcases all my favorite photos from my Sony a7III. 
 
 ---
 
-## 🚀 GitHub Activity  
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arnie12a&theme=react)
-
-</div>
+### 📫 Connect with Me
+- 🌐 [Portfolio](https://arnie12a.github.io)
+- 💼 [LinkedIn](https://linkedin.com/in/arnavkarnik)
+- 📬 Email: arnav.n.karnik@gmail.com
 
 ---
 
-## 🔗 Let's Connect  
-<div align="center">
+### ✨ Fun Facts
+- 🌍 Based in Chicago, Illinois
+- 📸 I enjoy [Photography / Hiking / Drawing / Reading]
+- ⚽ Big fan of [Manchester United, ]
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnavkarnik/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://arnie12a.github.io)  
+---
 
-</div>
+### 📈 GitHub Stats (Optional)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnie12a&show_icons=true&theme=default)
