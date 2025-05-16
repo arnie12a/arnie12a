@@ -7,10 +7,10 @@ I'm a **Computer Science and Data Science graduate** from the **University of Wi
 ### 🧰 Tech Stack & Tools
 
 - **Languages:** Python | SQL | JavaScript 
-- **Libraries & Frameworks:** ReactJS | React Native | Flask | Dash | Streamlit | Pandas | Numpy | Matplotlib | Seaborn | Plotly  
+- **Libraries & Frameworks:** ReactJS | React Native | Flask | Pandas | Numpy | Matplotlib | Seaborn | Plotly  
 - **Developer Tools:** Git | GitHub | VS Code | Jupyter Notebook | Postman | Swagger | Vercel  
 - **Design & Visualization:** Tableau | Figma | Excel  
-- **Databases:** Firebase | Snowflake 
+- **Databases:** Firebase | Snowflake | Dash | Streamlit
 
 ---
 
