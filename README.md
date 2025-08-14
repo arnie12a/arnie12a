@@ -14,7 +14,7 @@ I'm a **Computer Science and Data Science graduate** from the **University of Wi
 
 ---
 
-### 🚀 Projects I'm Working On
+### 🚀 Favorite Projects
 - 🔭 **[Free Throw Percentage Tracker](https://freethrowtrackerapp.web.app)** – A React.js + Firebase app that tracks an individual's free throw percentage over time.
 - 📊 **[Photography Portfolio](arnavkarnikphotos.com)** – A Next.js app that showcases all my favorite photos from my Sony a7III. 
 
