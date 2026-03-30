@@ -7,34 +7,40 @@ I'm a **Computer Science and Data Science graduate** from the **University of Wi
 ## 📁 Projects
 
 ### **Photography Portfolio – Next.js Travel & Portrait Galleries (Next.js, TypeScript, TailwindCSS)**
-A fully custom photography website showcasing travel and portrait work.  
-Features responsive gallery layouts, immersive storytelling pages, and optimized image delivery for fast performance.  
-Designed with a focus on visual clarity, minimalism, and narrative flow.  
-**(2023 – Present)**
+Built a dynamic portfolio using Next.js, TypeScript, Tailwind CSS, and deployed with Vercel to showcase my photography in an engaging, responsive interface.  
+**Live Site:** https://arnavkarnikphotos.com  
+**(2026)**
 
-### **Free Throw Percentage Tracker (React, Firebase)**
-A lightweight web app that tracks free‑throw performance over time.  
-Includes real‑time data syncing, session‑based stats, and a clean UI for quick input during practice.  
-Built to visualize improvement trends and shooting consistency.  
-**(2023)**
+---
 
-### **Running Tracker – Pace & Distance Analytics (React, Firebase)**
-A personal running dashboard that logs runs, calculates pace, and visualizes performance over time.  
-Includes charts for distance trends, pace variability, and personal records.  
-Designed for simplicity and quick data entry.  
-**(2024)**
-
-### **Basketball Shot Chart Generator (Python, Matplotlib, Pandas)**
-A tool that generates NBA‑style shot charts from manually logged shooting sessions.  
-Plots makes/misses, zones, and efficiency clusters to help analyze shooting patterns.  
-Inspired by professional analytics workflows.  
-**(2024)**
-
-### **Manchester United Match Visualizations (Python, Plotly, Pandas)**
-A collection of interactive visualizations analyzing Manchester United match data.  
-Includes xG timelines, passing networks, shot maps, and player performance breakdowns.  
-Built to explore match flow and tactical patterns through data.  
+### **Free Throw Percentage Tracker (React, Tailwind CSS, Firebase)**
+Developed an app using React, Tailwind CSS, and Firebase to track and analyze a user's free‑throw shooting performance.  
+Web‑scraped NBA data using Python and the `nba_api` module, along with data from Basketball Reference, to enhance analytics.  
+**Live App:** https://freethrowtrackerapp.web.app  
 **(2024)**
 
 ---
 
+### **Running Tracker – Pace & Distance Analytics (Flask, React, TypeScript)**
+Developed a running statistics visualization app using Flask for data input and a React + TypeScript frontend for interactive charts and metrics.  
+Tracks runs, pace, and distance with a clean, intuitive interface.  
+**Live App:** https://running-training-app.vercel.app  
+**(2025)**
+
+---
+
+### **Basketball Shot Chart Generator (HTML, CSS, JavaScript)**
+Built an interactive tool for plotting basketball shots and analyzing performance.  
+Features a simple, responsive interface for visualizing makes, misses, and shot locations.  
+**Live Tool:** https://arnie12a.github.io/BasketballShotchart/  
+**(2022)**
+
+---
+
+### **Manchester United Match Visualizations (Python, Seaborn, Matplotlib)**
+Scraped soccer data from FBref using Python, then processed and visualized it with Seaborn and Matplotlib.  
+Includes shot maps, passing patterns, and match‑level performance summaries.  
+**Visualization:** https://arnie12a.github.io/images/manchesterUnited.png  
+**(2023)**
+
+---
